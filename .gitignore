@@ -1,0 +1,10 @@
+# Ignore all
+/*
+
+# Allow List
+!.gitignore
+!/nvim
+
+!/tmux
+tmux/*
+!/tmux/tmux.conf
